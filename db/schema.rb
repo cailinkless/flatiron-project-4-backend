@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_01_03_224235) do
+ActiveRecord::Schema.define(version: 2021_01_06_050514) do
 
   create_table "cards", force: :cascade do |t|
     t.integer "number"
@@ -20,6 +20,14 @@ ActiveRecord::Schema.define(version: 2021_01_03_224235) do
     t.string "common_card"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "interpretations", force: :cascade do |t|
+    t.string "content"
+    t.integer "vignette_id", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["vignette_id"], name: "index_interpretations_on_vignette_id"
   end
 
   create_table "pairings", force: :cascade do |t|
@@ -32,5 +40,17 @@ ActiveRecord::Schema.define(version: 2021_01_03_224235) do
     t.index ["card_id"], name: "index_pairings_on_card_id"
   end
 
+  create_table "vignettes", force: :cascade do |t|
+    t.string "title"
+    t.integer "first_card"
+    t.integer "second_card"
+    t.integer "third_card"
+    t.string "first_pairing"
+    t.string "second_pairing"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  add_foreign_key "interpretations", "vignettes"
   add_foreign_key "pairings", "cards"
 end
