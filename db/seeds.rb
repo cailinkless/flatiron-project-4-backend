@@ -15,7 +15,8 @@ rider = Card.create(
     name: 'The Rider',
     keyword: 'News / Visitor',
     description: '',
-    common_card: '9 of Hearts' 
+    common_card: '9 of Hearts',
+    img_url: '01-rider.png'
     }
 )
 
@@ -347,7 +348,8 @@ clover = Card.create(
     name: 'The Clover',
     keyword: 'Luck',
     description: '',
-    common_card: '6 of Diamonds' 
+    common_card: '6 of Diamonds',
+    img_url: '02-clover.png'
 )
 
 # --> Clover Pairings
@@ -678,7 +680,8 @@ ship = Card.create(
     name: 'The Ship',
     keyword: 'Journey',
     description: '',
-    common_card: '10 of Spades'
+    common_card: '10 of Spades',
+    img_url: '03-ship.png'
 )
 
 # ---> Ship Pairings
@@ -1009,7 +1012,8 @@ house = Card.create(
     name: 'The House',
     keyword: 'Home',
     description: '',
-    common_card: 'King of Hearts'
+    common_card: 'King of Hearts',
+    img_url: '04-house.png'
 )
 
 # ---> House Pairings
@@ -1340,7 +1344,8 @@ tree = Card.create(
     name: 'The Tree',
     keyword: 'Health / Growth',
     description: '',
-    common_card: '7 of Hearts'
+    common_card: '7 of Hearts',
+    img_url: '05-tree.png'
 )
 
 # ---> Tree Pairings
@@ -1671,7 +1676,8 @@ clouds = Card.create(
     name: 'The Clouds',
     keyword: 'Confusion',
     description: '',
-    common_card: 'King of Clubs'
+    common_card: 'King of Clubs',
+    img_url: '06-clouds.png'
 )
 
 # --> Clouds Pairings
@@ -2002,7 +2008,8 @@ snake = Card.create(
     name: 'The Snake',
     keyword: 'Manipulation',
     description: '',
-    common_card: 'Queen of Clubs'
+    common_card: 'Queen of Clubs',
+    img_url: '07-snake.png'
 )
 
 # --> Snake Pairings
@@ -2333,7 +2340,8 @@ coffin = Card.create(
     name: 'The Coffin',
     keyword: 'Loss',
     description: '',
-    common_card: '9 of Diamonds'
+    common_card: '9 of Diamonds',
+    img_url: '08-coffin.png'
 )
 
 # ---> Coffin Pairings
@@ -2664,7 +2672,8 @@ bouquet = Card.create(
     name: 'The Bouquet',
     keyword: 'Gift / Acknowledgement',
     description: '',
-    common_card: 'Queen of Spades'
+    common_card: 'Queen of Spades',
+    img_url: '09-bouquet.png'
 )
 
 # ---> Bouquet Pairings
@@ -2995,7 +3004,8 @@ scythe = Card.create(
     name: 'The Scythe',
     keyword: 'Cutting / Clearing',
     description: '',
-    common_card: 'Jack of Diamonds'
+    common_card: 'Jack of Diamonds',
+    img_url: '10-sycthe.png'
 )
 
 ### Scythe Pairings
@@ -3326,7 +3336,8 @@ whip = Card.create(
     name: 'The Whip',
     keyword: 'Tension',
     description: '',
-    common_card: 'Jack of Clubs'
+    common_card: 'Jack of Clubs',
+    img_url: '11-whip.png'
 )
 
 ### Whip Pairings
@@ -3657,7 +3668,8 @@ birds = Card.create(
     name: 'The Birds',
     keyword: 'Chatter',
     description: '',
-    common_card: '7 of Diamonds'
+    common_card: '7 of Diamonds',
+    img_url: '12-birds.png'
 )
 
 ### Birds Pairings
@@ -3988,7 +4000,8 @@ child = Card.create(
     name: 'The Child',
     keyword: 'Youth',
     description: '',
-    common_card: 'Jack of Spades'
+    common_card: 'Jack of Spades',
+    img_url: '13-child.png'
 )
 
 ### Child Pairings
@@ -4319,7 +4332,8 @@ fox = Card.create(
     name: 'The Fox',
     keyword: 'Work / Ambition',
     description: '',
-    common_card: '9 of Clubs'
+    common_card: '9 of Clubs',
+    img_url: '14-fox.png'
 )
 
 # ---> Fox Pairings
@@ -4650,7 +4664,8 @@ bear = Card.create(
     name: 'The Bear',
     keyword: 'Power',
     description: '',
-    common_card: '10 of Clubs'
+    common_card: '10 of Clubs',
+    img_url: '15-bear.png'
 )
 
 # ---> Bear Pairings
@@ -4981,7 +4996,8 @@ star = Card.create(
     name: 'The Star',
     keyword: 'Hope / Destiny',
     description: '',
-    common_card: '6 of Hearts'
+    common_card: '6 of Hearts',
+    img_url: '16-star.png'
 )
 
 ### Star Pairings
@@ -5312,7 +5328,8 @@ stork = Card.create(
     name: 'The Stork',
     keyword: 'Change',
     description: '',
-    common_card: 'Queen of Hearts'
+    common_card: 'Queen of Hearts',
+    img_url: '17-stork.png'
 )
 
 ### Stork Pairings
@@ -5643,7 +5660,8 @@ dog = Card.create(
     name: 'The Dog',
     keyword: 'Friend',
     description: '',
-    common_card: '10 of Hearts'
+    common_card: '10 of Hearts',
+    img_url: '18-dog.png'
 )
 
 ### Dog Pairings
@@ -5974,7 +5992,8 @@ tower = Card.create(
     name: 'The Tower',
     keyword: 'Solitude',
     description: '',
-    common_card: '6 of Spades'
+    common_card: '6 of Spades',
+    img_url: '19-tower.png'
 )
 
 ### Tower Pairings
@@ -6305,7 +6324,8 @@ garden = Card.create(
     name: 'The Garden',
     keyword: 'Social',
     description: '',
-    common_card: '8 of Spades'
+    common_card: '8 of Spades',
+    img_url: '20-garden.png'
 )
 
 ### Garden Pairings
@@ -6636,7 +6656,8 @@ mountain = Card.create(
     name: 'The Mountain',
     keyword: 'Challenge',
     description: '',
-    common_card: '8 of Clubs'
+    common_card: '8 of Clubs',
+    img_url: '21-mountain.png'
 )
 
 # ---> Mountain Pairings
@@ -6967,7 +6988,8 @@ crossroads = Card.create(
     name: 'The Crossroads',
     keyword: 'Choice',
     description: '',
-    common_card: 'Queen of Diamonds'
+    common_card: 'Queen of Diamonds',
+    img_url: '22-crossroads.png'
 )
 
 ### Crossroads Pairings
@@ -7298,7 +7320,8 @@ mice = Card.create(
     name: 'The Mice',
     keyword: 'Worries',
     description: '',
-    common_card: '7 of Clubs'
+    common_card: '7 of Clubs',
+    img_url: '23-mice.png'
 )
 
 ### Mice Pairings
@@ -7629,7 +7652,8 @@ heart = Card.create(
     name: 'The Heart',
     keyword: 'Love',
     description: '',
-    common_card: 'Jack of Hearts'
+    common_card: 'Jack of Hearts',
+    img_url: '24-heart.png'
 )
 
 ### Heart Pairings
@@ -7960,7 +7984,8 @@ ring = Card.create(
     name: 'The Ring',
     keyword: 'Commitment',
     description: '',
-    common_card: 'Ace of Clubs'
+    common_card: 'Ace of Clubs',
+    img_url: '25-ring.png'
 )
 
 ### Ring Pairings
@@ -8291,7 +8316,8 @@ book = Card.create(
     name: 'The Book',
     keyword: 'Revelation',
     description: '',
-    common_card: '10 of Diamonds'
+    common_card: '10 of Diamonds',
+    img_url: '26-book.png'
 )
 
 # ---> Book Pairings
@@ -8622,7 +8648,8 @@ letter = Card.create(
     name: 'The Letter',
     keyword: 'Written Communication',
     description: '',
-    common_card: '7 of Spades'
+    common_card: '7 of Spades',
+    img_url: '27-letter.png'
 )
 
 ### Letter Pairings
@@ -8953,7 +8980,8 @@ gentleman = Card.create(
     name: 'The Gentleman',
     keyword: 'Male / Masculine',
     description: 'Commonly used to represent a male/masculine querent',
-    common_card: 'Ace of Hearts'
+    common_card: 'Ace of Hearts',
+    img_url: '28-gentleman.png'
 )
 
 ### Gentleman Pairings
@@ -9284,7 +9312,8 @@ lady = Card.create(
     name: 'The Lady',
     keyword: 'Female / Feminine',
     description: 'Commonly used to represent a female/feminine querent',
-    common_card: 'Ace of Spades'
+    common_card: 'Ace of Spades',
+    img_url: '29-lady.png'
 )
 
 ### Lady Pairings
@@ -9615,7 +9644,8 @@ lily = Card.create(
     name: 'The Lily',
     keyword: 'Sensuality / Growth',
     description: '',
-    common_card: 'King of Spades'
+    common_card: 'King of Spades',
+    img_url: '30-lily.png'
 )
 
 ### Lily Pairings
@@ -9946,7 +9976,8 @@ sun = Card.create(
     name: 'The Sun',
     keyword: 'Good Fortune',
     description: '',
-    common_card: 'Ace of Diamonds'
+    common_card: 'Ace of Diamonds',
+    img_url: '31-sun.png'
 )
 
 ### Sun Pairings
@@ -10277,7 +10308,8 @@ moon = Card.create(
     name: 'The Moon',
     keyword: 'Emotion / Intuition',
     description: '',
-    common_card: '8 of Hearts'
+    common_card: '8 of Hearts',
+    img_url: '32-moon.png'
 )
 
 ### Moon Pairings
@@ -10608,7 +10640,8 @@ key = Card.create(
     name: 'The Key',
     keyword: 'Solution / Breakthrough',
     description: '',
-    common_card: '8 of Diamonds'
+    common_card: '8 of Diamonds',
+    img_url: '33-key.png'
 )
 
 ### Key Pairings
@@ -10939,7 +10972,8 @@ fish = Card.create(
     name: 'The Fish',
     keyword: 'Abundance',
     description: '',
-    common_card: 'King of Diamonds'
+    common_card: 'King of Diamonds',
+    img_url: '34-fish.png'
 )
 
 ### Fish Pairings
@@ -11270,7 +11304,8 @@ anchor = Card.create(
     name: 'The Anchor',
     keyword: 'Stability',
     description: '',
-    common_card: '9 of Spades'
+    common_card: '9 of Spades',
+    img_url: '35-anchor.png'
 )
 
 ### Anchor Pairings
@@ -11601,7 +11636,8 @@ cross = Card.create(
     name: 'The Cross',
     keyword: 'Sacrifice / Suffering',
     description: '',
-    common_card: '6 of Clubs'
+    common_card: '6 of Clubs',
+    img_url: '36-cross.png'
 )
 
 ### Cross Pairings

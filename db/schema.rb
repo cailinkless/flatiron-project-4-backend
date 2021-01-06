@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_01_06_050514) do
+ActiveRecord::Schema.define(version: 2021_01_06_065401) do
 
   create_table "cards", force: :cascade do |t|
     t.integer "number"
@@ -20,6 +20,7 @@ ActiveRecord::Schema.define(version: 2021_01_06_050514) do
     t.string "common_card"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.string "img_url"
   end
 
   create_table "interpretations", force: :cascade do |t|
