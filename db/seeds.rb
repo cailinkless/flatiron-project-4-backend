@@ -14,7 +14,7 @@ rider = Card.create(
     number: 1,
     name: 'The Rider',
     keyword: 'News / Visitor',
-    description: '',
+    description: "The Rider primarily denotes news, usually arriving soon, and usually in person (although not always). Sometimes this takes the form of a new person or one you haven't had contact with in a while. Occasionally used to represent one's personal mode of transportation.",
     common_card: '9 of Hearts',
     img_url: '01-rider.png'
     }
@@ -30,7 +30,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Clover',
     card_2: 2,
-    meaning: ''
+    meaning: 'This pairing would imply good news, maybe about some stroke of luck.'
     },
 
 ### Rider + Ship
@@ -39,7 +39,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Ship',
     card_2: 3,
-    meaning: ''
+    meaning: 'May imply news or a visitor from far away, or news of some sort of progress.'
     },
 
 ### Rider + House
@@ -48,7 +48,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + House',
     card_2: 4,
-    meaning: ''
+    meaning: "A visitor to one's house, or news regarding some domestic affair."
     },
 
 ### Rider + Tree
@@ -57,7 +57,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Tree',
     card_2: 5,
-    meaning: ''
+    meaning: "News regarding one's health."
     },
 
 ### Rider + Clouds
@@ -66,7 +66,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Clouds',
     card_2: 6,
-    meaning: ''
+    meaning: 'News that may be bad or inaccurate in some way. A visitor with an unpleasant demeanor.'
     },
 
 ### Rider + Snake
@@ -75,7 +75,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Snake',
     card_2: 7,
-    meaning: ''
+    meaning: 'News involving secrecy or deception, or a person who may not be trustworthy due to a hidden agenda.'
     },
 
 ### Rider + Coffin
@@ -84,7 +84,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Coffin',
     card_2: 8,
-    meaning: ''
+    meaning: 'News of a loss.'
     },
 
 ### Rider + Bouquet
@@ -93,7 +93,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Bouquet',
     card_2: 9,
-    meaning: ''
+    meaning: 'News of appreciation or regard, perhaps a gift to be delivered. A person offering tokens of affection.'
     },
 
 ### Rider + Scythe
@@ -102,7 +102,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Scythe',
     card_2: 10,
-    meaning: ''
+    meaning: 'Sudden news, most likely of a breaking or clearing away of some sort.'
     },
 
 ### Rider + Whip
@@ -111,7 +111,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Whip',
     card_2: 11,
-    meaning: ''
+    meaning: 'News or person that drives up tension, whether positive/exciting (for instance, sexual attraction) or stressful/demanding (maybe a sudden piling on of urgent work from a boss).'
     },
 
 ### Rider + Birds
@@ -120,7 +120,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Birds',
     card_2: 12,
-    meaning: ''
+    meaning: 'News that may involve multiple people or have a social, gossipy quality.'
     },
 
 ### Rider + Child
@@ -129,7 +129,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Child',
     card_2: 13,
-    meaning: ''
+    meaning: 'News of some sort of new beginning, or about a child.'
     },
 
 ### Rider + Fox
@@ -138,7 +138,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Fox',
     card_2: 14,
-    meaning: ''
+    meaning: "News about one's career, or a person who may provide some sort of opportunity"
     },
 
 ### Rider + Bear
@@ -147,7 +147,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Bear',
     card_2: 15,
-    meaning: ''
+    meaning: "News or a visit from a strong or authoritative figure."
     },
 
 ### Rider + Star
@@ -156,7 +156,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Star',
     card_2: 16,
-    meaning: ''
+    meaning: 'A good sign on the way, or a fateful encounter.'
     },
 
 ### Rider + Stork
@@ -165,7 +165,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Stork',
     card_2: 17,
-    meaning: ''
+    meaning: 'News or a person bringing great change.'
     },
 
 ### Rider + Dog
@@ -174,7 +174,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Dog',
     card_2: 18,
-    meaning: ''
+    meaning: 'News from a friend, or a friendly visitor.'
     },
 
 ### Rider + Tower
@@ -183,7 +183,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Tower',
     card_2: 19,
-    meaning: ''
+    meaning: 'May indicate news or a visit during after a period of isolation, or from someone who is usually isolated or remote themselves.'
     },
 
 ### Rider + Garden
@@ -192,7 +192,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Garden',
     card_2: 20,
-    meaning: ''
+    meaning: 'May indicate news of a social event, or a gathering of multiple visitors.'
     },
 
 ### Rider + Mountain
@@ -201,7 +201,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Mountain',
     card_2: 21,
-    meaning: ''
+    meaning: 'News delayed, or alternately, news of a great challenge or obstacle.'
     },
 
 ### Rider + Crossroads
@@ -210,7 +210,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Crossroads',
     card_2: 22,
-    meaning: ''
+    meaning: 'News or a person that will prompt and important choice or change of directoion.'
     },
 
 ### Rider + Mice
@@ -219,7 +219,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Mice',
     card_2: 23,
-    meaning: ''
+    meaning: 'Worrying news, or alternately, personal worries about what news may come.'
     },
 
 ### Rider + Heart
@@ -228,7 +228,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Heart',
     card_2: 24,
-    meaning: ''
+    meaning: 'News or a visit from a current or potential romantic connection.'
     },
 
 ### Rider + Ring
@@ -237,7 +237,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Ring',
     card_2: 25,
-    meaning: ''
+    meaning: 'News of a promise or commitment.'
     },
 
 ### Rider + Book
@@ -246,7 +246,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Book',
     card_2: 26,
-    meaning: ''
+    meaning: "News involving one's education or self-understanding." 
     },
 
 ### Rider + Letter
@@ -255,7 +255,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Letter',
     card_2: 27,
-    meaning: ''
+    meaning: 'News in the form of some sort of official document or formal message.'
     },
 
 ### Rider + Gentleman
@@ -264,7 +264,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Gentleman',
     card_2: 28,
-    meaning: ''
+    meaning: 'The arrival of a male/masculine figure (or news from one).'
     },
 
 ### Rider + Lady
@@ -273,7 +273,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Lady',
     card_2: 29,
-    meaning: ''
+    meaning: 'The arrival of a female/feminine figure (or news from one).'
     },
 
 ### Rider + Lily
@@ -282,7 +282,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Lily',
     card_2: 30,
-    meaning: ''
+    meaning: 'News involving love, growth, sensuality, or maturity. A visit from a lover.'
     },
 
 ### Rider + Sun
@@ -291,7 +291,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Sun',
     card_2: 31,
-    meaning: ''
+    meaning: 'Good news, or a happy visit.'
     },
 
 ### Rider + Moon
@@ -300,7 +300,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Moon',
     card_2: 32,
-    meaning: ''
+    meaning: 'News about something one feels passionately about, or the arrival of a figure who sparks inspiration.'
     },
 
 ### Rider + Key
@@ -309,7 +309,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Key',
     card_2: 33,
-    meaning: ''
+    meaning: 'News or a visitor that helps solve a problem or unlock a new opportunity or breakthrough.'
     },
 
 ### Rider + Fish
@@ -318,7 +318,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Fish',
     card_2: 34,
-    meaning: ''
+    meaning: "News affecting one's financial status or other assets."
     },
 
 ### Rider + Anchor
@@ -327,7 +327,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Anchor',
     card_2: 35,
-    meaning: ''
+    meaning: 'News or a person bringing stability or marking the end of a process/journey.'
     },
 
 ### Rider + Cross
@@ -336,7 +336,7 @@ rider_pairings = Pairing.create([
     card: rider,
     name: 'Rider + Cross',
     card_2: 36,
-    meaning: ''
+    meaning: 'News of a test, trial, or suffering.'
     },
 
 ])
@@ -347,7 +347,7 @@ clover = Card.create(
     number: 2,
     name: 'The Clover',
     keyword: 'Luck',
-    description: '',
+    description: 'A stroke of luck or good fortune, usually small, but can be promising of greater things to come. Can occasionally be interpreted as bad luck if surrounded by negative cards, but the default meaning is joyful.',
     common_card: '6 of Diamonds',
     img_url: '02-clover.png'
 )
@@ -362,7 +362,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Rider',
     card_2: 1,
-    meaning: ''
+    meaning: 'A lucky meeting or bit of news.'
     },
 
 ### Clover + Ship
@@ -371,7 +371,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Ship',
     card_2: 3,
-    meaning: ''
+    meaning: 'A stroke of luck that will provide a springboard for forward momentum, or luck in travel.'
     },
 
 ### Clover + House
@@ -380,7 +380,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + House',
     card_2: 4,
-    meaning: ''
+    meaning: 'Luck in your home and with your household.'
     },
 
 ### Clover + Tree
@@ -389,7 +389,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Tree',
     card_2: 5,
-    meaning: ''
+    meaning: "Luck in one's health, or longstanding luck."
     },
 
 ### Clover + Clouds
@@ -398,7 +398,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Clouds',
     card_2: 6,
-    meaning: ''
+    meaning: 'Luck quickly followed by a dark time, or an unfortunate chance occurrence.'
     },
 
 ### Clover + Snake
@@ -407,7 +407,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Snake',
     card_2: 7,
-    meaning: ''
+    meaning: 'A seemingly lucky event, that perhaps needs further investigation for hidden downsides.'
     },
 
 ### Clover + Coffin
@@ -416,7 +416,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Coffin',
     card_2: 8,
-    meaning: ''
+    meaning: 'Luck about to run out.'
     },
 
 ### Clover + Bouquet
@@ -425,7 +425,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Bouquet',
     card_2: 9,
-    meaning: ''
+    meaning: 'A lucky break, in terms of getting notice and praise.'
     },
 
 ### Clover + Scythe
@@ -434,7 +434,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Scythe',
     card_2: 10,
-    meaning: ''
+    meaning: 'A sudden stroke of luck- one that disappears quickly.'
     },
 
 ### Clover + Whip
@@ -443,7 +443,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Whip',
     card_2: 11,
-    meaning: ''
+    meaning: 'Some combination of luck and tension- perhaps a gamble of some sort.'
     },
 
 ### Clover + Birds
@@ -452,7 +452,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Birds',
     card_2: 12,
-    meaning: ''
+    meaning: 'A lucky encounter or useful bit of news discovered by chance in conversation.'
     },
 
 ### Clover + Child
@@ -461,7 +461,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Child',
     card_2: 13,
-    meaning: ''
+    meaning: 'Luck with a new endeavor or involving children in some way. Perhaps the innocence of blind faith.'
     },
 
 ### Clover + Fox
@@ -470,7 +470,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Fox',
     card_2: 14,
-    meaning: ''
+    meaning: 'Luck in work / career, or "making your own luck" through cleverness.'
     },
 
 ### Clover + Bear
@@ -479,7 +479,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Bear',
     card_2: 15,
-    meaning: ''
+    meaning: 'Luck in the form of favor from one in a position of strength or authority.'
     },
 
 ### Clover + Star
@@ -488,7 +488,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Star',
     card_2: 16,
-    meaning: ''
+    meaning: 'A lucky event that is a sign of greater things to come. A "lucky star" on the horizon.'
     },
 
 ### Clover + Stork
@@ -497,7 +497,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Stork',
     card_2: 17,
-    meaning: ''
+    meaning: 'A lucky or chance event leading to great change.'
     },
 
 ### Clover + Dog
@@ -506,7 +506,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Dog',
     card_2: 18,
-    meaning: ''
+    meaning: "Luck in one's social life and in finding good friends, or a lucky break for a close friend of the querent."
     },
 
 ### Clover + Tower
@@ -515,7 +515,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Tower',
     card_2: 19,
-    meaning: ''
+    meaning: 'An isolated stroke of luck.'
     },
 
 ### Clover + Garden
@@ -524,7 +524,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Garden',
     card_2: 20,
-    meaning: ''
+    meaning: 'A successful social or networking event. A natural sense of charisma.'
     },
 
 ### Clover + Mountain
@@ -533,7 +533,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Mountain',
     card_2: 21,
-    meaning: ''
+    meaning: 'A stroke of luck broken by a large obstacle.'
     },
 
 ### Clover + Crossroads
@@ -542,7 +542,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Crossroads',
     card_2: 22,
-    meaning: ''
+    meaning: 'Luck in decisionmaking- trust your gut.'
     },
 
 ### Clover + Mice
@@ -551,7 +551,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Mice',
     card_2: 23,
-    meaning: ''
+    meaning: "Negative superstitions, or worry that one's luck is running out."
     },
 
 ### Clover + Heart
@@ -560,7 +560,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Heart',
     card_2: 24,
-    meaning: ''
+    meaning: 'Luck in love and matters of the heart.'
     },
 
 ### Clover + Ring
@@ -569,7 +569,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Ring',
     card_2: 25,
-    meaning: ''
+    meaning: "Luck leading to a lasting commitment."
     },
 
 ### Clover + Book
@@ -578,7 +578,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Book',
     card_2: 26,
-    meaning: ''
+    meaning: 'A chance discovery of important or enlightening information.'
     },
 
 ### Clover + Letter
@@ -587,7 +587,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Letter',
     card_2: 27,
-    meaning: ''
+    meaning: 'A lucky message.'
     },
 
 ### Clover + Gentleman
@@ -596,7 +596,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Gentleman',
     card_2: 28,
-    meaning: ''
+    meaning: "Lucky meeting with a gentleman, or, if The Gentleman represents the querent, coming in to a situation with luck on one's side."
     },
 
 ### Clover + Lady
@@ -605,7 +605,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Lady',
     card_2: 29,
-    meaning: ''
+    meaning: "Lucky meeting with a lady, or, if The Lady represents the querent, coming in to a situation with luck on one's side."
     },
 
 ### Clover + Lily
@@ -614,7 +614,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Lily',
     card_2: 30,
-    meaning: ''
+    meaning: 'Luck in regards to growth or sensuality.'
     },
 
 ### Clover + Sun
@@ -623,7 +623,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Sun',
     card_2: 31,
-    meaning: ''
+    meaning: 'A small stroke of luck leading to a more lasting positive change.'
     },
 
 ### Clover + Moon
@@ -632,7 +632,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Moon',
     card_2: 32,
-    meaning: ''
+    meaning: 'An inspiring stroke of luck.'
     },
 
 ### Clover + Key
@@ -641,7 +641,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Key',
     card_2: 33,
-    meaning: ''
+    meaning: 'Luck opening a new opportunity or solving a problem.'
     },
 
 ### Clover + Fish
@@ -650,7 +650,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Fish',
     card_2: 34,
-    meaning: ''
+    meaning: 'Luck in regards to money, perhaps a new income opportunity or a sudden windfall.'
     },
 
 ### Clover + Anchor
@@ -659,7 +659,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Anchor',
     card_2: 35,
-    meaning: ''
+    meaning: 'A lucky break providing security or stability.'
     },
 
 ### Clover + Cross
@@ -668,7 +668,7 @@ clover_pairings = Pairing.create([
     card: clover,
     name: 'Clover + Cross',
     card_2: 36,
-    meaning: ''
+    meaning: 'Luck turning sour.'
     },
 
 ])
@@ -678,8 +678,8 @@ clover_pairings = Pairing.create([
 ship = Card.create(
     number: 3,
     name: 'The Ship',
-    keyword: 'Journey',
-    description: '',
+    keyword: 'Movement / Momentum',
+    description: "Can denote literal travel or transportation, but just as often can mean progression in one's career or personal life.",
     common_card: '10 of Spades',
     img_url: '03-ship.png'
 )
@@ -694,7 +694,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Rider',
     card_2: 1,
-    meaning: ''
+    meaning: 'Travel to make a visit or deliver a message.'
     },
 
 ### Ship + Clover
@@ -703,7 +703,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Clover',
     card_2: 2,
-    meaning: ''
+    meaning: 'A trip or endeavor blessed by luck.'
     },
 
 ### Ship + House
@@ -712,7 +712,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + House',
     card_2: 4,
-    meaning: ''
+    meaning: 'Forward momentum in domestic life, perhaps a move to a new home.'
     },
 
 ### Ship + Tree
@@ -721,7 +721,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Tree',
     card_2: 5,
-    meaning: ''
+    meaning: "Progression in one's health, physical or otherwise."
     },
 
 ### Ship + Clouds
@@ -730,7 +730,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Clouds',
     card_2: 6,
-    meaning: ''
+    meaning: 'A trip or endeavor heading into trouble or confusing.'
     },
 
 ### Ship + Snake
@@ -739,7 +739,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Snake',
     card_2: 7,
-    meaning: ''
+    meaning: 'An endeavor with ambitious goals, perhaps leading to underhanded tactics.'
     },
 
 ### Ship + Coffin
@@ -748,7 +748,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Coffin',
     card_2: 8,
-    meaning: ''
+    meaning: 'An endeavor brought to an end; perhaps a trip cut short.'
     },
 
 ### Ship + Bouquet
@@ -757,7 +757,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Bouquet',
     card_2: 9,
-    meaning: ''
+    meaning: 'Progess towards recognition, or the arrival of a gift from afar.'
     },
 
 ### Ship + Scythe
@@ -1011,7 +1011,7 @@ house = Card.create(
     number: 4,
     name: 'The House',
     keyword: 'Home',
-    description: '',
+    description: "One of the most literal cards in the deck, The House represents one's home, household, and domestic life.",
     common_card: 'King of Hearts',
     img_url: '04-house.png'
 )
@@ -1343,7 +1343,7 @@ tree = Card.create(
     number: 5,
     name: 'The Tree',
     keyword: 'Health / Growth',
-    description: '',
+    description: 'The tree usually represents the status of physical health or vitality-- other surrounding guards determine whether this status is positive or negative.',
     common_card: '7 of Hearts',
     img_url: '05-tree.png'
 )
@@ -1674,8 +1674,8 @@ tree_pairings = Pairing.create([
 clouds = Card.create(
     number: 6,
     name: 'The Clouds',
-    keyword: 'Confusion',
-    description: '',
+    keyword: 'Confusion / Darkness',
+    description: 'One of a small number of decidedly negative cards in the deck-- cards surrounding it will denote either the main sources of trouble in a situation and/or the aspects of life that will be affected by said trouble.',
     common_card: 'King of Clubs',
     img_url: '06-clouds.png'
 )
@@ -2007,7 +2007,7 @@ snake = Card.create(
     number: 7,
     name: 'The Snake',
     keyword: 'Manipulation',
-    description: '',
+    description: 'This card usually hints at a betrayal or a hidden agenda. Surrounding cards denote the setting- work, a relationship etc. However, it is occasionally used to denote more positive or value-neutral "snaky" qualities, such as cleverness or ambition.',
     common_card: 'Queen of Clubs',
     img_url: '07-snake.png'
 )
@@ -2338,8 +2338,8 @@ snake_pairings = Pairing.create([
 coffin = Card.create(
     number: 8,
     name: 'The Coffin',
-    keyword: 'Loss',
-    description: '',
+    keyword: 'Loss / Ending',
+    description: 'Does not always denote an actual death but always represents an ending or loss of some sort. This can sometimes be positive if immediately following other negative cards, as it implies said negative situation reaching its conclusion.',
     common_card: '9 of Diamonds',
     img_url: '08-coffin.png'
 )
@@ -2671,7 +2671,7 @@ bouquet = Card.create(
     number: 9,
     name: 'The Bouquet',
     keyword: 'Gift / Acknowledgement',
-    description: '',
+    description: 'May represent a physical token or gesture of love, good will, or appreciation, or positive verbal recognition and acknowledgement.',
     common_card: 'Queen of Spades',
     img_url: '09-bouquet.png'
 )
@@ -3003,7 +3003,7 @@ scythe = Card.create(
     number: 10,
     name: 'The Scythe',
     keyword: 'Cutting / Clearing',
-    description: '',
+    description: 'Represents the approach and/or need for swift, definitive action of cutting or clearing away. This will likely feel shocking or painful, but is often (though not always) a necessary break from a negative situation.',
     common_card: 'Jack of Diamonds',
     img_url: '10-sycthe.png'
 )
@@ -3335,7 +3335,7 @@ whip = Card.create(
     number: 11,
     name: 'The Whip',
     keyword: 'Tension',
-    description: '',
+    description: 'The common interpretations for The Whip are particularly diverse, with some using it to denote conflict or power struggles, others reading it as vigourous physicality (often specifically sexual in nature), some reading hard work or overwork. The one common thread in every school of thought is a sense of tension / potential energy that could suddenly crack / burst into action at any time.',
     common_card: 'Jack of Clubs',
     img_url: '11-whip.png'
 )
@@ -3667,7 +3667,7 @@ birds = Card.create(
     number: 12,
     name: 'The Birds',
     keyword: 'Chatter',
-    description: '',
+    description: 'Denotes both positive and negative sides of conversation and the spread of information- this can be positive socializing and connection on the one hand, or gossip and deceptive "games of telephone" on the other.',
     common_card: '7 of Diamonds',
     img_url: '12-birds.png'
 )
@@ -3999,7 +3999,7 @@ child = Card.create(
     number: 13,
     name: 'The Child',
     keyword: 'Youth',
-    description: '',
+    description: 'Can represent an actual child, or new projects and phases of life. Implies both the positive and negative aspects of youth and new beginnings -- Excitement, playfulness, innocence, naivete, inexperience, etc.',
     common_card: 'Jack of Spades',
     img_url: '13-child.png'
 )
@@ -4331,7 +4331,7 @@ fox = Card.create(
     number: 14,
     name: 'The Fox',
     keyword: 'Work / Ambition',
-    description: '',
+    description: 'Frequently used to denote work or career, as well as cleverness and ambition. Can imply a "Sly Fox" type, with either positive or negative connotations.',
     common_card: '9 of Clubs',
     img_url: '14-fox.png'
 )
@@ -4663,7 +4663,7 @@ bear = Card.create(
     number: 15,
     name: 'The Bear',
     keyword: 'Power',
-    description: '',
+    description: 'Used to represent power in all its various forms, whether an external authority figure or a well of personal inner strength. Other cards surrouding show whether this power is being used well or badly.',
     common_card: '10 of Clubs',
     img_url: '15-bear.png'
 )
@@ -4995,7 +4995,7 @@ star = Card.create(
     number: 16,
     name: 'The Star',
     keyword: 'Hope / Destiny',
-    description: '',
+    description: "Almost always positive, The Star points to one's highest hopes- think of the expressions Lucky Star, Wish Upon A Star, etc.",
     common_card: '6 of Hearts',
     img_url: '16-star.png'
 )
@@ -5327,7 +5327,7 @@ stork = Card.create(
     number: 17,
     name: 'The Stork',
     keyword: 'Change',
-    description: '',
+    description: 'Nowadays our most common association with storks is the delivery of a new baby, but they have also been used to represent death, or even hard work. The essence of this card is change and transition to a new phase.',
     common_card: 'Queen of Hearts',
     img_url: '17-stork.png'
 )
@@ -5659,7 +5659,7 @@ dog = Card.create(
     number: 18,
     name: 'The Dog',
     keyword: 'Friend',
-    description: '',
+    description: 'Represents a friend, old or new, or when used to clarify another card, the qualities of friendship and loyalty.',
     common_card: '10 of Hearts',
     img_url: '18-dog.png'
 )
@@ -5991,7 +5991,7 @@ tower = Card.create(
     number: 19,
     name: 'The Tower',
     keyword: 'Solitude',
-    description: '',
+    description: 'A time of solititude or isolation, or someone "set apart" in some way, either due to a shy or standoffish temperement or a role of authority / responsibility.',
     common_card: '6 of Spades',
     img_url: '19-tower.png'
 )
@@ -6323,7 +6323,7 @@ garden = Card.create(
     number: 20,
     name: 'The Garden',
     keyword: 'Social',
-    description: '',
+    description: 'Represents social and public life; community interaction.',
     common_card: '8 of Spades',
     img_url: '20-garden.png'
 )
@@ -6655,7 +6655,7 @@ mountain = Card.create(
     number: 21,
     name: 'The Mountain',
     keyword: 'Challenge',
-    description: '',
+    description: 'A great challenge, obstacle, or delay, especially when in between a card representing the querent and a card representing their goals / desires.',
     common_card: '8 of Clubs',
     img_url: '21-mountain.png'
 )
@@ -6987,7 +6987,7 @@ crossroads = Card.create(
     number: 22,
     name: 'The Crossroads',
     keyword: 'Choice',
-    description: '',
+    description: 'Represents a decision that must be made, or a parting of ways.',
     common_card: 'Queen of Diamonds',
     img_url: '22-crossroads.png'
 )
@@ -7319,7 +7319,7 @@ mice = Card.create(
     number: 23,
     name: 'The Mice',
     keyword: 'Worries',
-    description: '',
+    description: 'The Mice represent the smaller stressors and anxieties of life, though with the potential to pile up and become larger problems if unaddressed.',
     common_card: '7 of Clubs',
     img_url: '23-mice.png'
 )
@@ -7651,7 +7651,7 @@ heart = Card.create(
     number: 24,
     name: 'The Heart',
     keyword: 'Love',
-    description: '',
+    description: 'This card has to do with all things related to love, affection, and relationships. The love referred to can be romantic or platonic- use surrounding cards to clarify if the context is unclear.',
     common_card: 'Jack of Hearts',
     img_url: '24-heart.png'
 )
@@ -7983,7 +7983,7 @@ ring = Card.create(
     number: 25,
     name: 'The Ring',
     keyword: 'Commitment',
-    description: '',
+    description: 'This represents a long standing commitments or traditions- think of engagement rings or a family heirloom.',
     common_card: 'Ace of Clubs',
     img_url: '25-ring.png'
 )
@@ -8315,7 +8315,7 @@ book = Card.create(
     number: 26,
     name: 'The Book',
     keyword: 'Revelation',
-    description: '',
+    description: 'Information yet to be discovered. Often indicates deep thought and study, whether in the context of formal education or personal research / reflection.',
     common_card: '10 of Diamonds',
     img_url: '26-book.png'
 )
@@ -8647,7 +8647,7 @@ letter = Card.create(
     number: 27,
     name: 'The Letter',
     keyword: 'Written Communication',
-    description: '',
+    description: 'This can refer to an actual letter, or alternately forms, documents, contracts, and in the modern day, email or text messages.',
     common_card: '7 of Spades',
     img_url: '27-letter.png'
 )
@@ -8979,7 +8979,7 @@ gentleman = Card.create(
     number: 28,
     name: 'The Gentleman',
     keyword: 'Male / Masculine',
-    description: 'Commonly used to represent a male/masculine querent',
+    description: 'Commonly used to represent a male/masculine querent. If not being used for the querent, The Gentleman represents a male/masculine figure in their life.',
     common_card: 'Ace of Hearts',
     img_url: '28-gentleman.png'
 )
@@ -9311,7 +9311,7 @@ lady = Card.create(
     number: 29,
     name: 'The Lady',
     keyword: 'Female / Feminine',
-    description: 'Commonly used to represent a female/feminine querent',
+    description: 'Commonly used to represent a female/feminine querent. If not being used for the querent, The Lady represents a female/feminine figure in their life.',
     common_card: 'Ace of Spades',
     img_url: '29-lady.png'
 )
@@ -9643,7 +9643,7 @@ lily = Card.create(
     number: 30,
     name: 'The Lily',
     keyword: 'Sensuality / Growth',
-    description: '',
+    description: "The Lily is card with many different interpretations according to different schools, but they are all positive. A common thread tends to be flourishing or coming into one's own, whether this refers to one's sexuality and / or body confidence, or spiritual growth and self-awareness.",
     common_card: 'King of Spades',
     img_url: '30-lily.png'
 )
@@ -9975,7 +9975,7 @@ sun = Card.create(
     number: 31,
     name: 'The Sun',
     keyword: 'Good Fortune',
-    description: '',
+    description: 'The Sun represents joy, success, and prosperity, and usually rather deep and longstanding happiness at that.',
     common_card: 'Ace of Diamonds',
     img_url: '31-sun.png'
 )
@@ -10306,8 +10306,8 @@ sun_pairings = Pairing.create([
 moon = Card.create(
     number: 32,
     name: 'The Moon',
-    keyword: 'Emotion / Intuition',
-    description: '',
+    keyword: 'Dreams / Inspiration',
+    description: "The Moon has two main meanings which may seem unrelated. One is fame, reputation, and honors, particularly in regard to one's career. The other is emotions and desires, often seductive or intimate. What ties these two possible meanings together is a sense of deep passion for the topic at hand. Use surrounding cards and your stated question to deduce which aspect of the moon is being highlighted.",
     common_card: '8 of Hearts',
     img_url: '32-moon.png'
 )
@@ -10639,7 +10639,7 @@ key = Card.create(
     number: 33,
     name: 'The Key',
     keyword: 'Solution / Breakthrough',
-    description: '',
+    description: 'Seekers of advice should pay close attention to the cards surrounding The Key represents opportunities to unlock doors to goals and desires or the solution to a problem being puzzled over.',
     common_card: '8 of Diamonds',
     img_url: '33-key.png'
 )
@@ -10971,7 +10971,7 @@ fish = Card.create(
     number: 34,
     name: 'The Fish',
     keyword: 'Abundance',
-    description: '',
+    description: 'The Fish represent wealth and abundance, as money or as valuable assets.',
     common_card: 'King of Diamonds',
     img_url: '34-fish.png'
 )
@@ -11303,7 +11303,7 @@ anchor = Card.create(
     number: 35,
     name: 'The Anchor',
     keyword: 'Stability',
-    description: '',
+    description: 'The anchor represents stability, a putting down of roots in some aspect of life, often (though not always) following a period of movement or uncertainty.',
     common_card: '9 of Spades',
     img_url: '35-anchor.png'
 )
@@ -11635,7 +11635,7 @@ cross = Card.create(
     number: 36,
     name: 'The Cross',
     keyword: 'Sacrifice / Suffering',
-    description: '',
+    description: 'The Cross represents hardships and trying times, the carrying of a heavy burden. Though the struggle involved may be necessary, it will definitely take a heavy toll.',
     common_card: '6 of Clubs',
     img_url: '36-cross.png'
 )
