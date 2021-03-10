@@ -766,7 +766,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Scythe',
     card_2: 10,
-    meaning: ''
+    meaning: 'An unexpected trip or a trip cut short, perhaps due to an emergency.'
     },
 
 ### Ship + Whip
@@ -775,7 +775,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Whip',
     card_2: 11,
-    meaning: ''
+    meaning: 'Travel involving rigorous work or exercise.'
     },
 
 ### Ship + Birds
@@ -784,7 +784,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Birds',
     card_2: 12,
-    meaning: ''
+    meaning: 'Travel involving meeting and connecting with multiple people, or long distance communication.'
     },
 
 ### Ship + Child
@@ -793,7 +793,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Child',
     card_2: 13,
-    meaning: ''
+    meaning: 'May denote a trip made on account of a child, or perhaps a small/short trip.'
     },
 
 ### Ship + Fox
@@ -802,7 +802,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Fox',
     card_2: 14,
-    meaning: ''
+    meaning: 'Travel for work or self-advancement.'
     },
 
 ### Ship + Bear
@@ -811,7 +811,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Bear',
     card_2: 15,
-    meaning: ''
+    meaning: 'A trip to see or on behalf of an authority figure; alternately, a long time away, "in hibernation" so to speak.'
     },
 
 ### Ship + Star
@@ -820,7 +820,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Star',
     card_2: 16,
-    meaning: ''
+    meaning: 'A fateful trip, probably one involving fond hopes and dreams.'
     },
 
 ### Ship + Stork
@@ -829,7 +829,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Stork',
     card_2: 17,
-    meaning: ''
+    meaning: 'A trip involving great change or a new endeavor.'
     },
 
 ### Ship + Dog
@@ -838,7 +838,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Dog',
     card_2: 18,
-    meaning: ''
+    meaning: 'Travel with or to see a friend.'
     },
 
 ### Ship + Tower
@@ -847,7 +847,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Tower',
     card_2: 19,
-    meaning: ''
+    meaning: 'An official trip, or perhaps travel to a reclusive space'
     },
 
 ### Ship + Garden
@@ -856,7 +856,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Garden',
     card_2: 20,
-    meaning: ''
+    meaning: 'A social trip'
     },
 
 ### Ship + Mountain
@@ -865,7 +865,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Mountain',
     card_2: 21,
-    meaning: ''
+    meaning: 'Travel or other forward momentum delayed or challenged in some way.'
     },
 
 ### Ship + Crossroads
@@ -874,7 +874,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Crossroads',
     card_2: 22,
-    meaning: ''
+    meaning: 'Travel or forward momentum leading to an important choice.'
     },
 
 ### Ship + Mice
@@ -883,7 +883,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Mice',
     card_2: 23,
-    meaning: ''
+    meaning: 'Travel plagued by problems or anxieties.'
     },
 
 ### Ship + Heart
@@ -892,7 +892,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Heart',
     card_2: 24,
-    meaning: ''
+    meaning: 'A romantic or emotional journey.'
     },
 
 ### Ship + Ring
@@ -901,7 +901,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Ring',
     card_2: 25,
-    meaning: ''
+    meaning: 'A trip involving a commitment, perhaps a honeymoon, or travel for some type of contract work.'
     },
 
 ### Ship + Book
@@ -910,7 +910,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Book',
     card_2: 26,
-    meaning: ''
+    meaning: 'A journey into the unknown, and/or of self-exploration.'
     },
 
 ### Ship + Letter
@@ -919,7 +919,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Letter',
     card_2: 27,
-    meaning: ''
+    meaning: 'Communication from afar, or a trip to deliver official communication.'
     },
 
 ### Ship + Gentleman
@@ -928,7 +928,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Gentleman',
     card_2: 28,
-    meaning: ''
+    meaning: 'Travel / forward momentum with or to a masculine figure.'
     },
 
 ### Ship + Lady
@@ -937,7 +937,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Lady',
     card_2: 29,
-    meaning: ''
+    meaning: 'Travel / forward momentum with or to a feminine figure.'
     },
 
 ### Ship + Lily
@@ -946,7 +946,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Lily',
     card_2: 30,
-    meaning: ''
+    meaning: 'Journey involving love, joy, personal growth.'
     },
 
 ### Ship + Sun
@@ -955,7 +955,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Sun',
     card_2: 31,
-    meaning: ''
+    meaning: 'A journey blessed with great joy.'
     },
 
 ### Ship + Moon
@@ -964,7 +964,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Moon',
     card_2: 32,
-    meaning: ''
+    meaning: "A journey to chase one's dreams."
     },
 
 ### Ship + Key
@@ -973,7 +973,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Key',
     card_2: 33,
-    meaning: ''
+    meaning: 'A journey to unlock a secret.'
     },
 
 ### Ship + Fish
@@ -982,7 +982,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Fish',
     card_2: 34,
-    meaning: ''
+    meaning: 'Travel involving wealth or abundance.'
     },
 
 ### Ship + Anchor
@@ -991,7 +991,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Anchor',
     card_2: 35,
-    meaning: ''
+    meaning: 'A time of rest or stability following a journey.'
     },
 
 ### Ship + Cross
@@ -1000,7 +1000,7 @@ ship_pairings = Pairing.create([
     card: ship,
     name: 'Ship + Cross',
     card_2: 36,
-    meaning: ''
+    meaning: 'A journey coming to an end.'
     },
 
 ])
@@ -1026,7 +1026,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Rider',
     card_2: 1,
-    meaning: ''
+    meaning: "News coming to one's house."
     },
 
 ### House + Clover
@@ -1035,7 +1035,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Clover',
     card_2: 2,
-    meaning: ''
+    meaning: "Luck involving one's home."
     },
 
 ### House + Ship
@@ -1044,7 +1044,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Ship',
     card_2: 3,
-    meaning: ''
+    meaning: 'Travel away from home.'
     },
 
 ### House + Tree
@@ -1053,7 +1053,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Tree',
     card_2: 5,
-    meaning: ''
+    meaning: "Long term developments in one's house, perhaps physical repairs to the structure, or changes in the family dynamic."
     },
 
 ### House + Clouds
@@ -1062,7 +1062,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Clouds',
     card_2: 6,
-    meaning: ''
+    meaning: 'Trouble in the home.'
     },
 
 ### House + Snake
@@ -1071,7 +1071,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Snake',
     card_2: 7,
-    meaning: ''
+    meaning: 'A member of the household with secrets or uncertain motives.'
     },
 
 ### House + Coffin
@@ -1080,7 +1080,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Coffin',
     card_2: 8,
-    meaning: ''
+    meaning: 'A loss in the house.'
     },
 
 ### House + Bouquet
@@ -1089,7 +1089,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Bouquet',
     card_2: 9,
-    meaning: ''
+    meaning: "A gift or physical improvement to one's home."
     },
 
 ### House + Scythe
@@ -1098,7 +1098,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Scythe',
     card_2: 10,
-    meaning: ''
+    meaning: "Sudden news or incident regarding one's home."
     },
 
 ### House + Whip
@@ -1107,7 +1107,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Whip',
     card_2: 11,
-    meaning: ''
+    meaning: 'Hard work or exertion in the home.'
     },
 
 ### House + Birds
@@ -1116,7 +1116,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Birds',
     card_2: 12,
-    meaning: ''
+    meaning: "Conversations in or about one's home."
     },
 
 ### House + Child
@@ -1125,7 +1125,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Child',
     card_2: 13,
-    meaning: ''
+    meaning: 'May denote the arrival of a child to the house, or refer to a child or younger member in the household.'
     },
 
 ### House + Fox
@@ -1134,7 +1134,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Fox',
     card_2: 14,
-    meaning: ''
+    meaning: 'May imply working from home, or working to find a home.'
     },
 
 ### House + Bear
@@ -1143,7 +1143,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Bear',
     card_2: 15,
-    meaning: ''
+    meaning: "A powerful figure in one's home."
     },
 
 ### House + Star
@@ -1152,7 +1152,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Star',
     card_2: 16,
-    meaning: ''
+    meaning: "One's fondest hopes and dreams for their home."
     },
 
 ### House + Stork
@@ -1161,7 +1161,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Stork',
     card_2: 17,
-    meaning: ''
+    meaning: 'Change or new beginnings at home.'
     },
 
 ### House + Dog
@@ -1170,7 +1170,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Dog',
     card_2: 18,
-    meaning: ''
+    meaning: "A friend visiting the home, or the home of one's friend."
     },
 
 ### House + Tower
@@ -1179,7 +1179,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Tower',
     card_2: 19,
-    meaning: ''
+    meaning: 'A secluded home.'
     },
 
 ### House + Garden
@@ -1188,7 +1188,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Garden',
     card_2: 20,
-    meaning: ''
+    meaning: "A social event in one's home."
     },
 
 ### House + Mountain
@@ -1197,7 +1197,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Mountain',
     card_2: 21,
-    meaning: ''
+    meaning: 'Challenges involving the home.'
     },
 
 ### House + Crossroads
@@ -1206,7 +1206,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Crossroads',
     card_2: 22,
-    meaning: ''
+    meaning: 'Important decisions in the home, perhaps a choice about where to live.'
     },
 
 ### House + Mice
@@ -1215,7 +1215,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Mice',
     card_2: 23,
-    meaning: ''
+    meaning: 'Problems and anxieties in the house.'
     },
 
 ### House + Heart
@@ -1224,7 +1224,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Heart',
     card_2: 24,
-    meaning: ''
+    meaning: 'A loving home.'
     },
 
 ### House + Ring
@@ -1233,7 +1233,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Ring',
     card_2: 25,
-    meaning: ''
+    meaning: 'Commitment to a long-term place to live.'
     },
 
 ### House + Book
@@ -1242,7 +1242,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Book',
     card_2: 26,
-    meaning: ''
+    meaning: 'Secrets to be uncovered in or about the home.'
     },
 
 ### House + Letter
@@ -1251,7 +1251,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Letter',
     card_2: 27,
-    meaning: ''
+    meaning: "Official communication arriving to and/or involving one's home."
     },
 
 ### House + Gentleman
@@ -1260,7 +1260,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Gentleman',
     card_2: 28,
-    meaning: ''
+    meaning: "A masculine figure in one's home, or the home of a gentleman."
     },
 
 ### House + Lady
@@ -1269,7 +1269,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Lady',
     card_2: 29,
-    meaning: ''
+    meaning: "A feminine figure in one's home, or the home of a lady."
     },
 
 ### House + Lily
@@ -1278,7 +1278,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Lily',
     card_2: 30,
-    meaning: ''
+    meaning: 'Love, joy, and personal growth at home.'
     },
 
 ### House + Sun
@@ -1287,7 +1287,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Sun',
     card_2: 31,
-    meaning: ''
+    meaning: 'A home blessed with great joy.'
     },
 
 ### House + Moon
@@ -1296,7 +1296,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Moon',
     card_2: 32,
-    meaning: ''
+    meaning: "The home of one's dreams."
     },
 
 ### House + Key
@@ -1305,7 +1305,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Key',
     card_2: 33,
-    meaning: ''
+    meaning: 'A house full of secrets, or entry to a house previously blocked off from access.'
     },
 
 ### House + Fish
@@ -1314,7 +1314,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Fish',
     card_2: 34,
-    meaning: ''
+    meaning: 'Abundance in the home.'
     },
 
 ### House + Anchor
@@ -1323,7 +1323,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Anchor',
     card_2: 35,
-    meaning: ''
+    meaning: 'Putting down roots in the home, and/or a home that provides support and stability.'
     },
 
 ### House + Cross
@@ -1332,7 +1332,7 @@ house_pairings = Pairing.create([
     card: house,
     name: 'House + Cross',
     card_2: 36,
-    meaning: ''
+    meaning: "Trials at home, or the end of one's time in a house."
     },
 
 ])
