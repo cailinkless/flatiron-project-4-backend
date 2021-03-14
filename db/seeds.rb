@@ -1690,7 +1690,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Rider',
     card_2: 1,
-    meaning: ''
+    meaning: 'Bad news, or news that is delayed or "clouded" in some respect.'
     },
 
 ### Clouds + Clover
@@ -1699,7 +1699,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Clover',
     card_2: 2,
-    meaning: ''
+    meaning: 'Bad luck.'
     },
 
 ### Clouds + Ship
@@ -1708,7 +1708,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Ship',
     card_2: 3,
-    meaning: ''
+    meaning: 'A troubled journey, or perhaps a trip taken to escape trouble.'
     },
 
 ### Clouds + House
@@ -1717,7 +1717,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + House',
     card_2: 4,
-    meaning: ''
+    meaning: 'Trouble in or involving the home.'
     },
 
 ### Clouds + Tree
@@ -1726,7 +1726,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Tree',
     card_2: 5,
-    meaning: ''
+    meaning: 'Problems with health or growth and / or with long lasting consequences.'
     },
 
 ### Clouds + Snake
@@ -1735,7 +1735,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Snake',
     card_2: 7,
-    meaning: ''
+    meaning: 'Trouble involving temptation or betrayal.'
     },
 
 ### Clouds + Coffin
@@ -1744,7 +1744,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Coffin',
     card_2: 8,
-    meaning: ''
+    meaning: 'A great loss.'
     },
 
 ### Clouds + Bouquet
@@ -1753,7 +1753,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Bouquet',
     card_2: 9,
-    meaning: ''
+    meaning: 'Trouble involving affection, recognition, or a gift.'
     },
 
 ### Clouds + Scythe
@@ -1762,7 +1762,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Scythe',
     card_2: 10,
-    meaning: ''
+    meaning: 'Trouble leading to a sudden- perhaps violent - event.'
     },
 
 ### Clouds + Whip
@@ -1771,7 +1771,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Whip',
     card_2: 11,
-    meaning: ''
+    meaning: 'Overwork and / or abuse.'
     },
 
 ### Clouds + Birds
@@ -1780,7 +1780,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Birds',
     card_2: 12,
-    meaning: ''
+    meaning: 'Misinformed or malicious communications.'
     },
 
 ### Clouds + Child
@@ -1789,7 +1789,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Child',
     card_2: 13,
-    meaning: ''
+    meaning: 'Trouble regarding a child or young person.'
     },
 
 ### Clouds + Fox
@@ -1798,7 +1798,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Fox',
     card_2: 14,
-    meaning: ''
+    meaning: 'Trouble that affects the career, perhaps being "outfoxed" by a competitor.'
     },
 
 ### Clouds + Bear
@@ -1807,7 +1807,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Bear',
     card_2: 15,
-    meaning: ''
+    meaning: 'Trouble affecting self-sufficiency, or a troublesome authority figure.'
     },
 
 ### Clouds + Star
@@ -1816,7 +1816,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Star',
     card_2: 16,
-    meaning: ''
+    meaning: "A struggle to find one's true path."
     },
 
 ### Clouds + Stork
@@ -1825,7 +1825,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Stork',
     card_2: 17,
-    meaning: ''
+    meaning: 'Trouble involving or bringing change or a new endeavor.'
     },
 
 ### Clouds + Dog
@@ -1834,7 +1834,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Dog',
     card_2: 18,
-    meaning: ''
+    meaning: 'Trouble involving a friend or pet.'
     },
 
 ### Clouds + Tower
@@ -1843,7 +1843,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Tower',
     card_2: 19,
-    meaning: ''
+    meaning: 'Feelings of depression and isolation.'
     },
 
 ### Clouds + Garden
@@ -1852,7 +1852,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Garden',
     card_2: 20,
-    meaning: ''
+    meaning: "Trouble in one's social life."
     },
 
 ### Clouds + Mountain
@@ -1861,7 +1861,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Mountain',
     card_2: 21,
-    meaning: ''
+    meaning: 'Trouble forcing a great challenge or delay.'
     },
 
 ### Clouds + Crossroads
@@ -1870,7 +1870,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Crossroads',
     card_2: 22,
-    meaning: ''
+    meaning: 'Trouble prompting a serious life decision.'
     },
 
 ### Clouds + Mice
@@ -1879,7 +1879,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Mice',
     card_2: 23,
-    meaning: ''
+    meaning: 'Trouble that shows itself in many small ways.'
     },
 
 ### Clouds + Heart
@@ -1888,7 +1888,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Heart',
     card_2: 24,
-    meaning: ''
+    meaning: 'A troubled heart- literal or figurative.'
     },
 
 ### Clouds + Ring
@@ -1897,7 +1897,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Ring',
     card_2: 25,
-    meaning: '',
+    meaning: 'Ongoing trouble that repeats itself, or a threat to a commitment.',
     },
 
 ### Clouds + Book
@@ -1906,7 +1906,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Book',
     card_2: 26,
-    meaning: ''
+    meaning: 'A lack of understanding or mistunderstanding of the true issue at hand.'
     },
 
 ### Clouds + Letter
@@ -1915,7 +1915,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Letter',
     card_2: 27,
-    meaning: ''
+    meaning: 'Bad news or official communication, and / or false documents.'
     },
 
 ### Clouds + Gentleman
@@ -1924,7 +1924,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Gentleman',
     card_2: 28,
-    meaning: ''
+    meaning: 'Trouble involving a man or masculine figure.'
     },
 
 ### Clouds + Lady
@@ -1933,7 +1933,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Lady',
     card_2: 29,
-    meaning: ''
+    meaning: 'Trouble involving a woman or feminine figure.'
     },
 
 ### Clouds + Lily
@@ -1942,7 +1942,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Lily',
     card_2: 30,
-    meaning: ''
+    meaning: 'Trouble in love, happiness, and / sexuality.'
     },
 
 ### Clouds + Sun
@@ -1951,7 +1951,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Sun',
     card_2: 31,
-    meaning: ''
+    meaning: 'A period of trouble temporarily blocking out happiness.'
     },
 
 ### Clouds + Moon
@@ -1960,7 +1960,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Moon',
     card_2: 32,
-    meaning: ''
+    meaning: "Trouble regarding one's reputation."
     },
 
 ### Clouds + Key
@@ -1969,7 +1969,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Key',
     card_2: 33,
-    meaning: ''
+    meaning: 'A struggle to find an answer or solution.'
     },
 
 ### Clouds + Fish
@@ -1978,7 +1978,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Fish',
     card_2: 34,
-    meaning: ''
+    meaning: 'Trouble with money or other resources.'
     },
 
 ### Clouds + Anchor
@@ -1987,7 +1987,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Anchor',
     card_2: 35,
-    meaning: ''
+    meaning: 'Trouble leading to stasis (for good or for ill).'
     },
 
 ### Clouds + Cross
@@ -1996,7 +1996,7 @@ clouds_pairings = Pairing.create([
     card: clouds,
     name: 'Clouds + Cross',
     card_2: 36,
-    meaning: ''
+    meaning: 'A period of trouble coming to an end, but possibly in a painful way.'
     }
 
 ])
