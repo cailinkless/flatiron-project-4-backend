@@ -1342,8 +1342,8 @@ house_pairings = Pairing.create([
 tree = Card.create(
     number: 5,
     name: 'The Tree',
-    keyword: 'Health / Growth',
-    description: 'The tree usually represents the status of physical health or vitality-- other surrounding guards determine whether this status is positive or negative.',
+    keyword: 'Health / Growth / Longevity',
+    description: 'The tree usually represents the status of physical health or vitality-- other surrounding guards determine whether this status is positive or negative. It can also indicate a longstanding trend or an event with long-lasting consequences.',
     common_card: '7 of Hearts',
     img_url: '05-tree.png'
 )
@@ -1358,7 +1358,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Rider',
     card_2: 1,
-    meaning: ''
+    meaning: 'Health or growth related news.'
     },
 
 ### Tree + Clover
@@ -1367,7 +1367,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Clover',
     card_2: 2,
-    meaning: ''
+    meaning: 'Luck regarding health, growth, or education.'
     },
 
 ### Tree + Ship
@@ -1376,7 +1376,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Ship',
     card_2: 3,
-    meaning: ''
+    meaning: 'Travel for health, education, or personal growth.'
     },
 
 ### Tree + House
@@ -1385,7 +1385,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + House',
     card_2: 4,
-    meaning: ''
+    meaning: "Health in one's home, or a longstanding family line / tradition."
     },
 
 ### Tree + Clouds
@@ -1394,7 +1394,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Clouds',
     card_2: 6,
-    meaning: ''
+    meaning: 'Health troubles, or a long period of trouble.'
     },
 
 ### Tree + Snake
@@ -1403,7 +1403,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Snake',
     card_2: 7,
-    meaning: ''
+    meaning: 'Temptations regarding health decisions, or the forming of unhealthy or sneaky habits.'
     },
 
 ### Tree + Coffin
@@ -1412,7 +1412,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Coffin',
     card_2: 8,
-    meaning: ''
+    meaning: "A significant blow to one's health or personal growth."
     },
 
 ### Tree + Bouquet
@@ -1421,7 +1421,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Bouquet',
     card_2: 9,
-    meaning: ''
+    meaning: "Recognition of one's personal growth or good habits."
     },
 
 ### Tree + Scythe
@@ -1430,7 +1430,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Scythe',
     card_2: 10,
-    meaning: ''
+    meaning: "A sudden event, most likely negative, affecting one's physical or mental health or education, possibly a literal cut of some sort."
     },
 
 ### Tree + Whip
@@ -1439,7 +1439,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Whip',
     card_2: 11,
-    meaning: ''
+    meaning: 'Rigorous physical work or exercise.'
     },
 
 ### Tree + Birds
@@ -1448,7 +1448,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Birds',
     card_2: 12,
-    meaning: ''
+    meaning: "Reaching out to others as a sign of personal growth, or conversations regarding one's health."
     },
 
 ### Tree + Child
@@ -1457,7 +1457,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Child',
     card_2: 13,
-    meaning: ''
+    meaning: 'The health or development of a child or young person.'
     },
 
 ### Tree + Fox
@@ -1466,7 +1466,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Fox',
     card_2: 14,
-    meaning: ''
+    meaning: "Development in one's career, or perhaps a connection between one's work and health status."
     },
 
 ### Tree + Bear
@@ -1475,7 +1475,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Bear',
     card_2: 15,
-    meaning: ''
+    meaning: 'Growth into self-sufficiency, or physically growing stronger.'
     },
 
 ### Tree + Star
@@ -1484,7 +1484,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Star',
     card_2: 16,
-    meaning: ''
+    meaning: "Growing towards one's highest goals."
     },
 
 ### Tree + Stork
@@ -1493,7 +1493,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Stork',
     card_2: 17,
-    meaning: ''
+    meaning: "Personal growth yielding a new endeavor or great change."
     },
 
 ### Tree + Dog
@@ -1502,7 +1502,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Dog',
     card_2: 18,
-    meaning: ''
+    meaning: "A longstanding faithful friend, or perhaps the health of one's friend or pet."
     },
 
 ### Tree + Tower
@@ -1511,7 +1511,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Tower',
     card_2: 19,
-    meaning: ''
+    meaning: 'The development of traditions or institutions, or perhaps entering a place of higher learning.'
     },
 
 ### Tree + Garden
@@ -1520,7 +1520,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Garden',
     card_2: 20,
-    meaning: ''
+    meaning: "The health of one's social life, or perhaps one's longstanding social circle / activities."
     },
 
 ### Tree + Mountain
@@ -1529,7 +1529,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Mountain',
     card_2: 21,
-    meaning: ''
+    meaning: "A great challenge to one's health or growth."
     },
 
 ### Tree + Crossroads
@@ -1538,7 +1538,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Crossroads',
     card_2: 22,
-    meaning: ''
+    meaning: "A choice to break from a very longstanding pattern in one's life, and / or a major health decision."
     },
 
 ### Tree + Mice
@@ -1547,7 +1547,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Mice',
     card_2: 23,
-    meaning: ''
+    meaning: "Worries about one's health, and / or physical discomforts."
     },
 
 ### Tree + Heart
@@ -1556,7 +1556,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Heart',
     card_2: 24,
-    meaning: ''
+    meaning: "Emotional health, or the health of one's literal heart."
     },
 
 ### Tree + Ring
@@ -1565,7 +1565,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Ring',
     card_2: 25,
-    meaning: ''
+    meaning: 'Growth leading to a deep commitment, or perhaps, a lifelong health condition.'
     },
 
 ### Tree + Book
@@ -1574,7 +1574,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Book',
     card_2: 26,
-    meaning: ''
+    meaning: 'A deep commitment to knowledge and / or self-improvement.'
     },
 
 ### Tree + Letter
@@ -1583,7 +1583,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Letter',
     card_2: 27,
-    meaning: ''
+    meaning: "Formal tests or updates regarding health or education."
     },
 
 ### Tree + Gentleman
@@ -1592,7 +1592,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Gentleman',
     card_2: 28,
-    meaning: ''
+    meaning: "May indicate longstanding male presence in the querent's life, or one related to their health or education (like a doctor or teacher). May even simply indicate a tall man."
     },
 
 ### Tree + Lady
@@ -1601,7 +1601,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Lady',
     card_2: 29,
-    meaning: ''
+    meaning: "May indicate longstanding female presence in the querent's life, or one related to their health or education (like a doctor or teacher). May even simply indicate a tall woman."
     },
 
 ### Tree + Lily
@@ -1610,7 +1610,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Lily',
     card_2: 30,
-    meaning: ''
+    meaning: "Growth or health in one's emotional or sexual life."
     },
 
 ### Tree + Sun
@@ -1619,7 +1619,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Sun',
     card_2: 31,
-    meaning: ''
+    meaning: 'Longstanding habits resulting in great happiness and / or good health.'
     },
 
 ### Tree + Moon
@@ -1628,7 +1628,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Moon',
     card_2: 32,
-    meaning: ''
+    meaning: "Growth or developments in one's reputation."
     },
 
 ### Tree + Key
@@ -1637,7 +1637,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Key',
     card_2: 33,
-    meaning: ''
+    meaning: 'A solution to a health issue or longstanding question/problem.'
     },
 
 ### Tree + Fish
@@ -1646,7 +1646,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Fish',
     card_2: 34,
-    meaning: ''
+    meaning: 'Growth resulting in abundance.'
     },
 
 ### Tree + Anchor
@@ -1655,7 +1655,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Anchor',
     card_2: 35,
-    meaning: ''
+    meaning: 'Growth leading to stability-- think of "putting down roots."'
     },
 
 ### Tree + Cross
@@ -1664,7 +1664,7 @@ tree_pairings = Pairing.create([
     card: tree,
     name: 'Tree + Cross',
     card_2: 36,
-    meaning: ''
+    meaning: 'A trial relating to health or education.'
     },
 
 ])
