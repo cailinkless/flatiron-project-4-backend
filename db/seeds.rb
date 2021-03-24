@@ -2022,7 +2022,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Rider',
     card_2: 1,
-    meaning: ''
+    meaning: 'A communication or vistor with a hidden agenda.'
     },
 
 ### Snake + Clover
@@ -2031,7 +2031,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Clover',
     card_2: 2,
-    meaning: ''
+    meaning: 'Ambition or trickery leading to a stroke of luck, or a lucky escape from a betrayal.'
     },
 
 ### Snake + Ship
@@ -2040,7 +2040,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Ship',
     card_2: 3,
-    meaning: ''
+    meaning: 'Ambition yielding forward movement or travel, perhaps a business trip.'
     },
 
 ### Snake + House
@@ -2049,7 +2049,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + House',
     card_2: 4,
-    meaning: ''
+    meaning: 'Betrayal or ambition regarding a house or the home.'
     },
 
 ### Snake + Tree
@@ -2058,7 +2058,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Tree',
     card_2: 5,
-    meaning: ''
+    meaning: 'Ambition for greater opportunities or knowledge.'
     },
 
 ### Snake + Clouds
@@ -2067,7 +2067,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Clouds',
     card_2: 6,
-    meaning: ''
+    meaning: 'Betrayal or ambition leading to bad times or confusion.'
     },
 
 ### Snake + Coffin
@@ -2076,7 +2076,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Coffin',
     card_2: 8,
-    meaning: ''
+    meaning: 'Betrayal or ambition leading to a loss.'
     },
 
 ### Snake + Bouquet
@@ -2085,7 +2085,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Bouquet',
     card_2: 9,
-    meaning: ''
+    meaning: 'A lust for recognition, perhaps to the point of being willing to take credit unfairly. Alternately, a gift with a hidden agenda.'
     },
 
 ### Snake + Scythe
@@ -2094,7 +2094,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Scythe',
     card_2: 10,
-    meaning: ''
+    meaning: 'A sudden betrayal or attack from a rival.'
     },
 
 ### Snake + Whip
@@ -2103,7 +2103,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Whip',
     card_2: 11,
-    meaning: ''
+    meaning: 'Ambition leading to hard work, perhaps overwork.'
     },
 
 ### Snake + Birds
@@ -2112,7 +2112,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Birds',
     card_2: 12,
-    meaning: ''
+    meaning: 'Dishonest conversation, possibly gossip.'
     },
 
 ### Snake + Child
@@ -2121,7 +2121,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Child',
     card_2: 13,
-    meaning: ''
+    meaning: 'Ambition or betrayal involving a child.'
     },
 
 ### Snake + Fox
@@ -2130,7 +2130,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Fox',
     card_2: 14,
-    meaning: ''
+    meaning: 'Strong ambition in work or career, or potentially a work rival or false friend.'
     },
 
 ### Snake + Bear
@@ -2139,7 +2139,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Bear',
     card_2: 15,
-    meaning: ''
+    meaning: 'Ambition regarding power and self-assurance, or perhaps a dishonest leader.'
     },
 
 ### Snake + Star
@@ -2148,7 +2148,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Star',
     card_2: 16,
-    meaning: ''
+    meaning: 'Strong ambitions, or one poised to threaten your hopes.'
     },
 
 ### Snake + Stork
@@ -2157,7 +2157,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Stork',
     card_2: 17,
-    meaning: ''
+    meaning: 'An ambitious project, or one that may not be all it seems.'
     },
 
 ### Snake + Dog
@@ -2166,7 +2166,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Dog',
     card_2: 18,
-    meaning: ''
+    meaning: 'An ambitious friend, though not necessarily a false one. If the pair were reversed (Dog + Snake), it would more likely be a traitorous friend.'
     },
 
 ### Snake + Tower
@@ -2175,7 +2175,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Tower',
     card_2: 19,
-    meaning: ''
+    meaning: 'An ambition to sit above others in some way.'
     },
 
 ### Snake + Garden
@@ -2184,7 +2184,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Garden',
     card_2: 20,
-    meaning: ''
+    meaning: "One or more in your social circle are not all they seem and may betray you. Alternately, socializing for one's personal gain."
     },
 
 ### Snake + Mountain
@@ -2193,7 +2193,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Mountain',
     card_2: 21,
-    meaning: ''
+    meaning: 'Ambitions challenged, or betrayal causing a large problem or delay.'
     },
 
 ### Snake + Crossroads
@@ -2202,7 +2202,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Crossroads',
     card_2: 22,
-    meaning: ''
+    meaning: 'Betrayal or trickery regarding an important choice.'
     },
 
 ### Snake + Mice
@@ -2211,7 +2211,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Mice',
     card_2: 23,
-    meaning: ''
+    meaning: 'Ambition leading to anxieties and fear of betrayal.'
     },
 
 ### Snake + Heart
@@ -2220,7 +2220,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Heart',
     card_2: 24,
-    meaning: ''
+    meaning: 'Some sort of dishonesty about emotions, maybe a dishonest lover.'
     },
 
 ### Snake + Ring
@@ -2229,7 +2229,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Ring',
     card_2: 25,
-    meaning: ''
+    meaning: 'A longterm commitment with a hidden flaw or agenda.'
     },
 
 ### Snake + Book
@@ -2238,7 +2238,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Book',
     card_2: 26,
-    meaning: ''
+    meaning: 'A dangerous unknown, or risking betrayal to learn more.'
     },
 
 ### Snake + Letter
@@ -2247,7 +2247,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Letter',
     card_2: 27,
-    meaning: ''
+    meaning: 'A contract or written communication with a hidden flaw or agenda.'
     },
 
 ### Snake + Gentleman
@@ -2256,7 +2256,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Gentleman',
     card_2: 28,
-    meaning: ''
+    meaning: 'Betrayal or ambition involving a man or masculine figure.'
     },
 
 ### Snake + Lady
@@ -2265,7 +2265,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Lady',
     card_2: 29,
-    meaning: ''
+    meaning: 'Betrayal or ambition involving a woman or feminine figure.'
     },
 
 ### Snake + Lily
@@ -2274,7 +2274,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Lily',
     card_2: 30,
-    meaning: ''
+    meaning: "Betrayal or ambition encroaching on one's happiness, sexuality, or spirituality."
     },
 
 ### Snake + Sun
@@ -2283,7 +2283,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Sun',
     card_2: 31,
-    meaning: ''
+    meaning: "Betrayal threatening one's happiness, alternately, goals that may be overly lofty- 'flying to close to the sun,' etc."
     },
 
 ### Snake + Moon
@@ -2292,7 +2292,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Moon',
     card_2: 32,
-    meaning: ''
+    meaning: "A betrayal regarding one's reputation, or perhaps a strong ambition to be well-known."
     },
 
 ### Snake + Key
@@ -2301,7 +2301,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Key',
     card_2: 33,
-    meaning: ''
+    meaning: 'Ambition or trickery may unlock a secret or a path forward.'
     },
 
 ### Snake + Fish
@@ -2310,7 +2310,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Fish',
     card_2: 34,
-    meaning: ''
+    meaning: "One willing to take advantage for monetary gain, or perhaps the querent's own strong monetary ambition."
     },
 
 ### Snake + Anchor
@@ -2319,7 +2319,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Anchor',
     card_2: 35,
-    meaning: ''
+    meaning: 'An ambitious or untrustworthy person is in your life to stay for a while.'
     },
 
 ### Snake + Cross
@@ -2328,7 +2328,7 @@ snake_pairings = Pairing.create([
     card: snake,
     name: 'Snake + Cross',
     card_2: 36,
-    meaning: ''
+    meaning: 'Betrayal or ambition leading to sacrfice or suffering.'
     }
 
 ])
